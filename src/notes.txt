@@ -1,0 +1,6 @@
+user can enter the book name in the search 
+
+the book can random choose the image 
+
+you can delete,and new one is create , and edit the title of book 
+in the website
